@@ -1,1 +1,1 @@
-Jahidin.my.id statis portofolio website for github pages
+Jahidin.my.id | static portofolio website for github pages
